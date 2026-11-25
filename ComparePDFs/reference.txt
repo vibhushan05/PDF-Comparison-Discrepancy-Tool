@@ -1,0 +1,8 @@
+CPU Pin: DQ0
+Memory Pin: DQ4
+
+CPU Pin: DQ1
+Memory Pin: DQ5
+
+CPU Pin: DQ2
+Memory Pin: DQ6
